@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LeagueGroups": {
+      "commandName": "Project",
+      "commandLineArgs": "-p players1.txt -w week1.txt -o week2.txt "
+    }
+  }
+}
